@@ -1,5 +1,5 @@
 # 06DiceRoller
-Android  application for rolling of two Dice Image view by press of a button
+Android  application for rolling of two Dice Image view Button by press of a button
 
 WHAT I LEARNED -
 
